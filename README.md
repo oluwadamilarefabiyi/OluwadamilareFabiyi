@@ -27,7 +27,7 @@
 
 
  <details open>
-<summary><h2>Research Interests</h2></summary>
+<summary><h2>Research Interests🔬</h2></summary>
  🦠Infectious Diseases 
  <br>
  💦Water, Sanitataion and Hygiene
