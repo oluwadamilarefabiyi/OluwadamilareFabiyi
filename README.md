@@ -5,7 +5,10 @@
  <p align="center"> Actively Solving Problems </p>
 
 <details open>
-<summary>I automatically open</summary>
+<summary>About Me</summary>
 <br>
-This dropdown is open by default
+Lorem Ipsum
+ <br>
+ Lorem Ipsum
+ <br>
 </details>
