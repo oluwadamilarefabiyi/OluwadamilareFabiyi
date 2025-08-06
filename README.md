@@ -6,29 +6,23 @@
 
 <details open>
 <summary><h2>About Me</h2></summary>
- Lorem Ipsum
+ First Class Graduate of Envirionmental Health Sciences, University of Ibadan
  <br>
- Lorem Ipsum
+ Python Programmer
  <br>
- Lorem Ipsum
- <br>
- Lorem Ipsum
- <br>
- Lorem Ipsum
+ Innovating Artificial Intelligence/Machine Learning in Healthcare
 </details>
 
 
 <details open>
 <summary><h2>Tech Stack</h2></summary>
- Lorem Ipsum
+ Python
  <br>
- Lorem Ipsum
+ R
  <br>
- Lorem Ipsum
+ SQL
  <br>
- Lorem Ipsum
- <br>
-Lorem Ipsum
+ Power BI
 </details>
 
 
@@ -40,7 +34,7 @@ Lorem Ipsum
  <br>
  Neglected Tropical Diseases
  <br>
- AntiMicrobial Resistance
+ Antimicrobial Resistance
  <br>
  Data Science and Artificial Intelligence in HealthCare
 </details>
