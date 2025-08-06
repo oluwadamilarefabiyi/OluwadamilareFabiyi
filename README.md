@@ -5,7 +5,7 @@
  <p align="center"> Actively Solving Problems </p>
 
 <details open>
-<summary>About Me</summary>
+<summary><h2>About Me</h2></summary>
  Lorem Ipsum
  <br>
  Lorem Ipsum
@@ -19,7 +19,7 @@
 
 
 <details open>
-<summary><h2>Header in Dropdown</h2></summary>
+<summary><h2>Tech Stack</h2></summary>
  Lorem Ipsum
  <br>
  Lorem Ipsum
@@ -33,16 +33,14 @@ Lorem Ipsum
 
 
  <details open>
-<summary><h2>Header in Dropdown</h2></summary>
- Lorem Ipsum
+<summary><h2>Research Interests</h2></summary>
+ Infectious Diseases 
  <br>
- Lorem Ipsum
+ Water, Sanitataion and Hygiene
  <br>
- Lorem Ipsum
+ Neglected Tropical Diseases
  <br>
- Lorem Ipsum
+ AntiMicrobial Resistance
  <br>
-Lorem Ipsum
-</details>
- Lorem Ipsum
+ Data Science and Artificial Intelligence in HealthCare
 </details>
