@@ -1,4 +1,4 @@
-# <p align="center"> Hi, I am Oluwadamilare</p>
+# <p align="center"> Hi, I am Oluwadamilare 👋 </p>
 
 #### <p align="center"> Environmental Health Science(First Class) </p>
  <p align="center"> AI/ML with Python || Infectious Diseases Research || Public Health </p>
