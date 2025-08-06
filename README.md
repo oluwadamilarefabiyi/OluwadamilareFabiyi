@@ -1,8 +1,9 @@
 # <p align="center"> Hi, I am Oluwadamilare</p>
 
- <p align="center"> Environmental Health Science(First Class)</p>
- <p align="center"> AI/ML with Python || Infectious Diseases Research || Public Health </p>
- <p align="center"> Actively Coding</p>
+ <p align="center"> Environmental Health Science(First Class) 
+  AI/ML with Python || Infectious Diseases Research || Public Health
+ Actively Coding</p>
+
 
 - 🔭 I’m currently working on improving my Data Analytics skills.
 - 🌱 I’m currently learning Environmental Health Sciences (Public Health) at the University of Ibadan. 
