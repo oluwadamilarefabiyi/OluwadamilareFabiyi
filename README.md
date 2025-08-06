@@ -16,3 +16,33 @@
  <br>
  Lorem Ipsum
 </details>
+
+
+<details open>
+<summary><h2>Header in Dropdown</h2></summary>
+ Lorem Ipsum
+ <br>
+ Lorem Ipsum
+ <br>
+ Lorem Ipsum
+ <br>
+ Lorem Ipsum
+ <br>
+Lorem Ipsum
+</details>
+
+
+ <details open>
+<summary><h2>Header in Dropdown</h2></summary>
+ Lorem Ipsum
+ <br>
+ Lorem Ipsum
+ <br>
+ Lorem Ipsum
+ <br>
+ Lorem Ipsum
+ <br>
+Lorem Ipsum
+</details>
+ Lorem Ipsum
+</details>
