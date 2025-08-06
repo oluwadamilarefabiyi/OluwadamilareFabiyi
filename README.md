@@ -1,4 +1,4 @@
-### Hi there, welcome to my Github profile.
+ <p align="center">## Hi, I am Oluwadamilare</p>
 
 Here are some ideas to get you started:
 
