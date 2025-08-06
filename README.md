@@ -6,7 +6,6 @@
 
 <details open>
 <summary>About Me</summary>
-<br>
 Lorem Ipsum
  <br>
  Lorem Ipsum
